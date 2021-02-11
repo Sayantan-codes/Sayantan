@@ -1,4 +1,3 @@
-//WAP to find the volume of a tromboloid using 4 functions.
 #include<stdio.h>
 void inp();
 void calculate(float h, float d, float b);
